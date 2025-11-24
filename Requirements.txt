@@ -1,0 +1,7 @@
+geopandas
+plotly
+pydeck
+folium
+ipyleaflet
+ipywidgets
+geopy
